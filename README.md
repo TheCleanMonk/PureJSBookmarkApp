@@ -1,1 +1,3 @@
 # PureJSBookmarkApp
+# PureJSBookmarkApps
+# PureJSBookmarkApp
